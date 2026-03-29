@@ -1,0 +1,1195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zaynab\\ERP_HR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\seeddatamodels\\localunitsseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\seeddatamodels\\localunitsseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\seeddatamodels\\governorateseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\seeddatamodels\\governorateseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\seeddatamodels\\citycentersseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\seeddatamodels\\citycentersseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\views\\shared\\_modulelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\views\\shared\\_modulelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251227091954_seedemploymettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251227091954_seedemploymettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\seeddata\\employmenttypeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\seeddata\\employmenttypeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\seeddata\\qualificationtypeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\seeddata\\qualificationtypeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251225124058_seedqualifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251225124058_seedqualifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\qualificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\qualificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\seeddata\\functionalgroupseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\seeddata\\functionalgroupseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\functionalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\functionalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\seeddata\\qualitativegroupseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\seeddata\\qualitativegroupseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\qualitativegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\qualitativegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\seeddatamodels\\villageseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\seeddatamodels\\villageseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\hierarechy\\orgunittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\hierarechy\\orgunittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\hierarechy\\orgunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\hierarechy\\orgunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\governorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\governorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\academicincentiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\academicincentiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\academicincentivetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\academicincentivetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\localunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\localunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225091020_basicModels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyERP.Web\\Migrations\\20251225091020_basicModels2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\decision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\citycenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\citycenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\models\\common\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\models\\common\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\serviceterminationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\serviceterminationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\nominationfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\nominationfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\leadershippositionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\leadershippositionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\employeefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\employeefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\employeefamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\employeefamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\hr\\models\\employeedecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\hr\\models\\employeedecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\serviceterminationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\serviceterminationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\leadershipposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\leadershipposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\decisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\decisiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\areas\\admin\\models\\decisionauthority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\areas\\admin\\models\\decisionauthority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251225121607_seedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251225121607_seedcities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251225104811_seedgovs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251225104811_seedgovs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251225100443_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251225100443_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|d:\\zaynab\\erp_hr\\myerp.web\\migrations\\20251229114635_updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A248BF25-7355-4BF7-8C92-2A2CAAFA8A27}|MyERP.Web\\MyERP.Web.csproj|solutionrelative:myerp.web\\migrations\\20251229114635_updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-15T10:44:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAqwNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T07:42:37.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\Employee.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Employee.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\Employee.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:38:15.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwC8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:12:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GovernorateSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\GovernorateSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\SeedDataModels\\GovernorateSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\GovernorateSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\SeedDataModels\\GovernorateSeed.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:14:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityCentersSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\CityCentersSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\SeedDataModels\\CityCentersSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\CityCentersSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\SeedDataModels\\CityCentersSeed.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:04:13.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Program.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Program.cs",
+              "RelativeToolTip": "MyERP.Web\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:52:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwEwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:02:52.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:37:42.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalUnitsSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\LocalUnitsSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\SeedDataModels\\LocalUnitsSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\LocalUnitsSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\SeedDataModels\\LocalUnitsSeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:10:11.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcCAAAAAAAAAAAswDACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:49:31.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:52:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T07:41:58.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T10:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ModuleLayout.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_ModuleLayout.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Views\\Shared\\_ModuleLayout.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_ModuleLayout.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Views\\Shared\\_ModuleLayout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:38:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:53:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:40:06.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwMEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T08:13:44.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:22:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20251229114635_updateEmployee.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251229114635_updateEmployee.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251229114635_updateEmployee.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251229114635_updateEmployee.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251229114635_updateEmployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:46:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T07:43:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T12:27:00.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T07:43:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyERP.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:39:03.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T07:44:11.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251227091954_seedEmploymetType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251227091954_seedEmploymetType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251227091954_seedEmploymetType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251227091954_seedEmploymetType.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251227091954_seedEmploymetType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:19:55.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251225124058_seedQualifications.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225124058_seedQualifications.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225124058_seedQualifications.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225124058_seedQualifications.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225124058_seedQualifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:40:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmploymentTypeSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\EmploymentTypeSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\EmploymentTypeSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\EmploymentTypeSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\EmploymentTypeSeed.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T09:10:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QualitativeGroupSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualitativeGroupSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualitativeGroupSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualitativeGroupSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualitativeGroupSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:19:31.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251225121607_seedCities.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225121607_seedCities.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225121607_seedCities.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225121607_seedCities.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225121607_seedCities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:16:07.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmploymentType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\EmploymentType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\EmploymentType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\EmploymentType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\EmploymentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:42:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QualificationTypeSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualificationTypeSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualificationTypeSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualificationTypeSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\QualificationTypeSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:39:11.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FunctionalGroupSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\FunctionalGroupSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\FunctionalGroupSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\SeedData\\FunctionalGroupSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\SeedData\\FunctionalGroupSeed.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:35:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QualitativeGroup.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\QualitativeGroup.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\QualitativeGroup.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\QualitativeGroup.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\QualitativeGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:27:48.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QualificationType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\QualificationType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\QualificationType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\QualificationType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\QualificationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:07.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FunctionalGroup.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\FunctionalGroup.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\FunctionalGroup.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\FunctionalGroup.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\FunctionalGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:28:24.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VillageSeed.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\VillageSeed.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\SeedDataModels\\VillageSeed.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\SeedDataModels\\VillageSeed.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\SeedDataModels\\VillageSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:13:18.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251225104811_seedGovs.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225104811_seedGovs.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225104811_seedGovs.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225104811_seedGovs.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225104811_seedGovs.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:48:11.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyERP.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwFwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:54:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrgUnit.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnit.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnit.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnit.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnit.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:38:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrgUnitType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnitType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnitType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnitType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\Hierarechy\\OrgUnitType.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:37:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20251225100443_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225100443_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225100443_InitialCreate.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225100443_InitialCreate.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225100443_InitialCreate.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:04:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Governorate.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Governorate.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Governorate.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Governorate.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Governorate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:12:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AcademicIncentiveType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\AcademicIncentiveType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\AcademicIncentiveType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\AcademicIncentiveType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\AcademicIncentiveType.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:36:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251225094828_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225094828_InitialCreate.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:48:28.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AcademicIncentiveRequest.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\AcademicIncentiveRequest.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\AcademicIncentiveRequest.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\AcademicIncentiveRequest.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\AcademicIncentiveRequest.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAASwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:36:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyERP.Web\\appsettings.json",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\appsettings.json",
+              "RelativeToolTip": "MyERP.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T13:55:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Setting.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Setting.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Setting.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Setting.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:11:16.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Village.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Village.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Village.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Village.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Village.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:18:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251225091020_basicModels2.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225091020_basicModels2.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Migrations\\20251225091020_basicModels2.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Migrations\\20251225091020_basicModels2.cs",
+              "RelativeToolTip": "MyERP.Web\\Migrations\\20251225091020_basicModels2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:10:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:06:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LocalUnit.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\LocalUnit.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\LocalUnit.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\LocalUnit.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\LocalUnit.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:17:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:41:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Review.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Review.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Review.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Review.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:31:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Notification.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Notification.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Notification.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:43:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Document.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Document.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Document.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Document.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:30:57.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Decision.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Decision.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\Decision.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\Decision.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\Decision.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:44:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CityCenter.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\CityCenter.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\CityCenter.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\CityCenter.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\CityCenter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:13:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\AuditLog.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Models\\Common\\AuditLog.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Models\\Common\\AuditLog.cs",
+              "RelativeToolTip": "MyERP.Web\\Models\\Common\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:59:14.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ServiceTerminationRequest.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\ServiceTerminationRequest.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\ServiceTerminationRequest.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\ServiceTerminationRequest.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\ServiceTerminationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:35:22.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NominationFile.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\NominationFile.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\NominationFile.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\NominationFile.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\NominationFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:18:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmployeeQualification.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeQualification.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\EmployeeQualification.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeQualification.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\EmployeeQualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:41:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EmployeeFile.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeFile.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\EmployeeFile.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeFile.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\EmployeeFile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:39:10.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EmployeeFamily.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeFamily.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\EmployeeFamily.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeFamily.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\EmployeeFamily.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:39:42.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EmployeeDecision.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeDecision.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\EmployeeDecision.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\EmployeeDecision.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\EmployeeDecision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:15:46.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LeadershipPositionHistory.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\LeadershipPositionHistory.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\HR\\Models\\LeadershipPositionHistory.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\HR\\Models\\LeadershipPositionHistory.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\HR\\Models\\LeadershipPositionHistory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:49:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ServiceTerminationType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\ServiceTerminationType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\ServiceTerminationType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\ServiceTerminationType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\ServiceTerminationType.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:34:23.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LeadershipPosition.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\LeadershipPosition.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\LeadershipPosition.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\LeadershipPosition.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\LeadershipPosition.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:43:39.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\JobTitle.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\JobTitle.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\JobTitle.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\JobTitle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:31:38.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "JobGrade.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\JobGrade.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\JobGrade.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\JobGrade.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\JobGrade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:31:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DecisionType.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\DecisionType.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\DecisionType.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\DecisionType.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\DecisionType.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:10:18.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DecisionAuthority.cs",
+              "DocumentMoniker": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\DecisionAuthority.cs",
+              "RelativeDocumentMoniker": "MyERP.Web\\Areas\\Admin\\Models\\DecisionAuthority.cs",
+              "ToolTip": "D:\\Zaynab\\ERP_HR\\MyERP.Web\\Areas\\Admin\\Models\\DecisionAuthority.cs",
+              "RelativeToolTip": "MyERP.Web\\Areas\\Admin\\Models\\DecisionAuthority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:11:13.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
